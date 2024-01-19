@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 591px;
+    height: 161px;
+    border: 1px solid #DADDDF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.logo-nike {
+    margin-left: 17px;
+    margin-top: 17px;
+    margin-right: 12px;
+    width: 48px;
+    height: 48px;
+}
+
+.wraper-nome-data {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+
+.user {
+    margin-top: 20px;
+    margin-left: 6px;
+    color: #536471;
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+.dot {
+    margin-top: 4px;
+    margin-left: 3px;
+    color: #536471;
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.date {
+    margin-top: 20px;
+    font-size: 15px;
+    color: #536471;
+    margin-bottom: 0;
+}
+
+.wraper-tweet {
+    margin-bottom:20px;
+}
+
+.text {
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 75px;
+    margin-top: -17px;
+   ;
+}
+
+.top-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    box-sizing: border-box;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    
+    width:430px;
+    text-align: center;
+    margin-left:85px;
+   
+    
+
+   
+    }
+    
+    .box img{
+        margin-right: 18px;
+        
+    }
+    
+   
